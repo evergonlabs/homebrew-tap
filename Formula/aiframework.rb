@@ -6,8 +6,8 @@
 class Aiframework < Formula
   desc "Universal automation bootstrap CLI for Claude Code"
   homepage "https://github.com/evergonlabs/aiframework"
-  url "https://github.com/evergonlabs/aiframework/archive/refs/tags/v1.3.0.tar.gz"
-  sha256 "PLACEHOLDER_UNTIL_FIRST_RELEASE_TAG"
+  url "https://github.com/evergonlabs/aiframework/releases/download/v1.3.0/aiframework-1.3.0.tar.gz"
+  sha256 "bb97651af01de127604180496afb8343fe53cd02d1105a66d84ced973cdb4e69"
   license "MIT"
   head "https://github.com/evergonlabs/aiframework.git", branch: "main"
 
